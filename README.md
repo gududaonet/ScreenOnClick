@@ -31,7 +31,7 @@ A lightweight browser-based desktop viewer designed for emergency access and dis
 4. Run:
 
 ```cmd
-ScreenOnClick.exe
+SOC.exe
 ```
 
 No configuration required.
@@ -59,7 +59,7 @@ pip install flask pillow pywin32 pyttsx3
 Run:
 
 ```bash
-python ScreenOnClick.py
+python SOC.py
 ```
 
 ---
