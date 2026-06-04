@@ -2,6 +2,8 @@
 
 **🎉 GududaoStudio 6th Anniversary Work**
 
+<img src="icon.png" width="200" alt="Logo">
+
 > ⚡ Just one click.
 > Access a computer with a broken display from any web browser.
 
